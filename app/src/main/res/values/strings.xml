@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTServiceTest</string>
+
+    <!-- Main Menu -->
+    <string name="menu_item_devicelist">Connect</string>
+    <string name="menu_item_btenable">Bluetooth</string>
+
+
+    <string name="toast_connected">Connected</string>
+    <string name="toast_disconnected">Disconnected</string>
+    <string name="toast_connect_failed">Connection failed</string>
+
+    <!-- BTDeviceList -->
+    <string name="activity_devicelist">Bluetooth Devices</string>
+    <string name="title_activity_btdevicelist">Bluetooth Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_new_devices">New Devices</string>
+    <string name="text_no_paired_devices">No paired Devices.</string>
+    <string name="text_no_new_devices">No Devices found.</string>
+    <string name="text_scanning">Scanning&#8230;</string>
+    <string name="text_select_device">Select Device</string>
+
+    <string name="button_scan">Scan</string>
+
+
+</resources>

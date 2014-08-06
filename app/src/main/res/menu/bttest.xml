@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".BTTest" >
+
+    <item android:id="@+id/menu_item_btenable"
+        android:title="@string/menu_item_btenable"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:checkable="true"
+        android:checked="false" />
+
+    <item android:id="@+id/menu_item_devicelist"
+        android:title="@string/menu_item_devicelist"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>
